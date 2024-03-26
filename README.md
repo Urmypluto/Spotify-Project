@@ -1,5 +1,5 @@
 # Tiffany-He
-Tiffany He's Project
+Tiffany He's Spotify Music Popularity and Feature Analysis Project
 
 • Analyzed 52,000 Spotify tracks with Python, utilizing pandas for EDA, statistical tests, linear regression, PCA, and logistic regression,
 K-means clustrering, and Random Forest classification to explore song features and popularity.
